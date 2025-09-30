@@ -1,0 +1,523 @@
+2025-09-30 16:55:54,278 - __main__ - INFO - Searching for: web scraping with Python
+2025-09-30 16:59:52,828 - __main__ - INFO - Starting web scraping...
+2025-09-30 16:59:52,829 - __main__ - INFO - Scraping books from http://books.toscrape.com
+2025-09-30 16:59:52,829 - __main__ - INFO - Fetching http://books.toscrape.com (Attempt 1/3)
+2025-09-30 16:59:55,004 - __main__ - INFO - Successfully fetched http://books.toscrape.com
+2025-09-30 16:59:55,005 - __main__ - INFO - Found 0 books on the main page
+2025-09-30 16:59:55,005 - __main__ - INFO - Web scraping completed
+2025-09-30 17:01:50,184 - __main__ - INFO - Starting web scraping...
+2025-09-30 17:01:50,184 - __main__ - INFO - Scraping books from http://books.toscrape.com
+2025-09-30 17:01:50,213 - __main__ - INFO - Fetching http://books.toscrape.com (Attempt 1/3)
+2025-09-30 17:01:51,947 - __main__ - INFO - Successfully fetched http://books.toscrape.com
+2025-09-30 17:01:51,950 - __main__ - INFO - Found 0 books on the main page
+2025-09-30 17:01:51,951 - __main__ - INFO - Web scraping completed
+2025-09-30 17:02:48,033 - __main__ - INFO - Starting web scraping...
+2025-09-30 17:02:48,033 - __main__ - INFO - Scraping quotes from http://quotes.toscrape.com
+2025-09-30 17:02:48,033 - __main__ - INFO - Fetching http://quotes.toscrape.com (Attempt 1/3)
+2025-09-30 17:02:49,499 - __main__ - INFO - Successfully fetched http://quotes.toscrape.com
+2025-09-30 17:02:49,502 - __main__ - INFO - Found 0 quotes on the main page
+2025-09-30 17:02:49,502 - __main__ - INFO - Web scraping completed
+2025-09-30 17:04:42,624 - __main__ - INFO - Starting web scraping test...
+2025-09-30 17:04:42,624 - __main__ - INFO - Testing web scraping with https://httpbin.org/get
+2025-09-30 17:04:45,722 - __main__ - INFO - Successfully made request to test URL
+2025-09-30 17:04:45,732 - __main__ - INFO - Data saved to ..\data\test_results_20250930_170445_20250930_170445.csv
+2025-09-30 17:04:45,732 - __main__ - INFO - Web scraping test completed
+2025-09-30 17:05:30,959 - __main__ - INFO - Starting web scraping test...
+2025-09-30 17:05:30,959 - __main__ - INFO - Testing web scraping with https://httpbin.org/get
+2025-09-30 17:05:34,163 - __main__ - INFO - Successfully made request to test URL
+2025-09-30 17:05:34,170 - __main__ - INFO - Data saved to ..\data\test_results_20250930_170534_20250930_170534.csv
+2025-09-30 17:05:34,171 - __main__ - INFO - Web scraping test completed
+2025-09-30 17:11:09,547 - __main__ - INFO - Starting web scraping for URL: https://example.com
+2025-09-30 17:11:09,547 - __main__ - INFO - Scraping URL: https://example.com
+2025-09-30 17:11:09,547 - __main__ - INFO - Fetching https://example.com (Attempt 1/3)
+2025-09-30 17:11:11,062 - __main__ - INFO - Successfully fetched https://example.com
+2025-09-30 17:11:11,072 - __main__ - INFO - Data saved to ..\data\scrape_results_example_com_20250930_171111_20250930_171111.csv
+2025-09-30 17:11:11,072 - __main__ - INFO - Web scraping completed
+2025-09-30 17:13:11,722 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:11,722 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:11,724 - __main__ - INFO - Fetching https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3)
+2025-09-30 17:13:12,542 - __main__ - INFO - Successfully fetched https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:12,621 - __main__ - INFO - Data saved to ..\data\scrape_results_isha_sadhguru_org_20250930_171312_20250930_171312.csv
+2025-09-30 17:13:48,147 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:48,147 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:48,150 - __main__ - INFO - Fetching https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3)
+2025-09-30 17:13:49,081 - __main__ - INFO - Successfully fetched https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:49,157 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_171349_20250930_171349.csv
+2025-09-30 17:13:49,157 - __main__ - INFO - Web scraping completed
+2025-09-30 17:14:24,095 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:24,095 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:24,095 - __main__ - INFO - Fetching https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3)
+2025-09-30 17:14:25,018 - __main__ - INFO - Successfully fetched https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:25,113 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_171425_20250930_171425.csv
+2025-09-30 17:14:25,114 - __main__ - INFO - Web scraping completed
+2025-09-30 17:14:56,944 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:56,944 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:56,945 - __main__ - INFO - Fetching https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3)
+2025-09-30 17:14:57,749 - __main__ - INFO - Successfully fetched https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:57,863 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_171457_20250930_171457.csv
+2025-09-30 17:14:57,863 - __main__ - INFO - Web scraping completed
+2025-09-30 17:16:19,288 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:16:19,288 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:16:20,270 - __main__ - INFO - Extracted 0 verses and 0 paragraphs
+2025-09-30 17:16:20,282 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_171620_20250930_171620.csv
+2025-09-30 17:16:20,283 - __main__ - INFO - Web scraping completed
+2025-09-30 17:17:32,300 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:17:32,300 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:17:32,301 - __main__ - INFO - Attempt 1 with SSL
+2025-09-30 17:17:33,302 - __main__ - INFO - Extracted 0 verses and 0 paragraphs
+2025-09-30 17:17:33,314 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_171733_20250930_171733.csv
+2025-09-30 17:17:33,315 - __main__ - INFO - Web scraping completed
+2025-09-30 17:19:49,125 - __main__ - INFO - Starting web scraping for URL: https://www.geeksforgeeks.org/data-science/data-science-for-beginners/
+2025-09-30 17:19:49,126 - __main__ - INFO - Scraping URL: https://www.geeksforgeeks.org/data-science/data-science-for-beginners/
+2025-09-30 17:19:49,126 - __main__ - INFO - Attempt 1 with SSL
+2025-09-30 17:19:50,432 - __main__ - INFO - Extracted 19 verses and 9 paragraphs
+2025-09-30 17:19:50,482 - __main__ - INFO - Data saved to ../data/scrape_results_www_geeksforgeeks_org_20250930_171950_20250930_171950.csv
+2025-09-30 17:19:50,487 - __main__ - INFO - Web scraping completed
+2025-09-30 17:21:15,083 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:21:15,083 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:21:15,083 - __main__ - INFO - Fetching https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ with JavaScript rendering
+2025-09-30 17:21:15,872 - pyppeteer.chromium_downloader - INFO - Starting Chromium download.
+2025-09-30 17:21:16,538 - __main__ - WARNING - JavaScript rendering failed: Chromium downloadable not found at https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1181205/chrome-win.zip: Received <?xml version='1.0' encoding='UTF-8'?><Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Details>No such object: chromium-browser-snapshots/Win_x64/1181205/chrome-win.zip</Details></Error>.
+
+2025-09-30 17:21:16,665 - __main__ - INFO - Extracted 0 verses and 0 paragraphs
+2025-09-30 17:21:16,679 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_172116_20250930_172116.csv
+2025-09-30 17:21:16,679 - __main__ - INFO - Web scraping completed
+2025-09-30 17:22:29,877 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:22:29,877 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:22:29,877 - __main__ - INFO - Fetching https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3)
+2025-09-30 17:22:30,765 - __main__ - INFO - Saved page source to C:\safetensor\web_scrapping\web_scraper\debug\page_source.html
+2025-09-30 17:22:30,770 - __main__ - INFO - Found content with selector: article
+2025-09-30 17:22:30,772 - __main__ - INFO - Extracted 0 verses, 0 paragraphs, and 0 sections
+2025-09-30 17:22:30,789 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_172230_20250930_172230.csv
+2025-09-30 17:22:30,790 - __main__ - INFO - Web scraping completed
+2025-09-30 17:34:43,698 - __main__ - INFO - Playwright browser initialized
+2025-09-30 17:34:43,699 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:34:43,699 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:34:43,699 - __main__ - INFO - Fetching with Playwright: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3)
+2025-09-30 17:35:43,708 - __main__ - WARNING - Playwright attempt 1 failed: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/", waiting until "load"
+
+2025-09-30 17:35:44,073 - __main__ - INFO - Fetching with Playwright: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 2/3)
+2025-09-30 17:36:41,352 - __main__ - WARNING - Detected potential CAPTCHA or access restriction
+2025-09-30 17:36:41,354 - __main__ - INFO - Fetching with Playwright: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 3/3)
+2025-09-30 17:37:10,302 - __main__ - WARNING - Detected potential CAPTCHA or access restriction
+2025-09-30 17:37:10,302 - __main__ - ERROR - Failed to fetch content from https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:37:10,302 - __main__ - INFO - Web scraping completed
+2025-09-30 17:38:34,454 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:38:34,454 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:38:34,454 - __main__ - INFO - Fetching https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/5) with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-09-30 17:38:36,135 - __main__ - INFO - Saved page source to C:\safetensor\web_scrapping\web_scraper\debug\page_source.html
+2025-09-30 17:38:36,162 - __main__ - WARNING - No verses found, trying aggressive extraction
+2025-09-30 17:38:36,164 - __main__ - INFO - Extracted 0 verses, 0 paragraphs, and 0 sections
+2025-09-30 17:38:36,204 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_173836_20250930_173836.csv
+2025-09-30 17:38:36,206 - __main__ - INFO - Web scraping completed
+2025-09-30 17:43:59,018 - __main__ - INFO - Playwright browser initialized with anti-detection measures
+2025-09-30 17:43:59,019 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:43:59,019 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:43:59,019 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,019 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,019 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,020 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,021 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,022 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,023 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,024 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,025 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,025 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,025 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,025 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,025 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,025 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,025 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,025 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,025 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,025 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,026 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,026 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,026 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,026 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,026 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,027 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,027 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,027 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,027 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,027 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,027 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,027 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,027 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,027 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,027 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,028 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,028 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,028 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,028 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,028 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,028 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,028 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,028 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,028 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,028 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,029 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,029 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,029 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,029 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,029 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,029 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,029 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,029 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,029 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,029 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,030 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,030 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,030 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,030 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,030 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,030 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,030 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,030 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,030 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,030 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,031 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,031 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,031 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,031 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,031 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,031 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,031 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,031 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,031 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,031 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,032 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,032 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,032 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,032 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,032 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,032 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,032 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,032 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,032 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,032 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,032 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,033 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,034 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,034 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,034 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,034 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,034 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,034 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,034 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,034 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,034 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,034 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,035 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,036 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,036 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,036 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,036 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,036 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,036 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,036 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,036 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,036 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,036 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,036 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,037 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,037 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,037 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,037 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,037 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,037 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,037 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,037 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,037 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,038 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,039 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,040 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,041 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,041 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,041 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,041 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,041 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,041 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,041 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,041 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,041 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,041 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,041 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,042 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,042 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,042 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,042 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,042 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,043 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,043 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,043 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,043 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,043 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,043 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,043 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,043 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,043 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,043 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,044 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,044 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,044 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,044 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,044 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,044 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,044 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,044 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,044 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,044 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,045 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,046 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,047 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,047 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,047 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,047 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,047 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,047 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,047 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,047 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,047 - __main__ - WARNING - Playwright is disabled for this site
+2025-09-30 17:43:59,047 - __main__ - ERROR - Error scraping https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/: maximum recursion depth exceeded while calling a Python object
+2025-09-30 17:43:59,047 - __main__ - INFO - Web scraping completed
+2025-09-30 17:44:47,979 - __main__ - INFO - Playwright browser initialized with anti-detection measures
+2025-09-30 17:44:47,980 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:44:47,980 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:44:47,980 - __main__ - INFO - Fetching with Playwright: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3)
+2025-09-30 17:45:25,276 - __main__ - WARNING - Playwright attempt 1 failed: Timeout 30000ms exceeded.
+2025-09-30 17:45:26,288 - __main__ - INFO - Fetching with Playwright: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 2/3)
+2025-09-30 17:45:57,836 - __main__ - WARNING - Playwright attempt 2 failed: Timeout 30000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2025-09-30 17:45:59,848 - __main__ - INFO - Fetching with Playwright: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 3/3)
+2025-09-30 17:46:15,069 - __main__ - WARNING - Playwright attempt 3 failed: Page.evaluate: SyntaxError: Illegal return statement
+    at eval (<anonymous>)
+    at UtilityScript.evaluate (<anonymous>:291:30)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-09-30 17:46:15,069 - __main__ - ERROR - Failed to fetch https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ with Playwright after 3 attempts
+2025-09-30 17:46:15,069 - __main__ - INFO - Fetching with requests: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3) with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-09-30 17:46:15,932 - __main__ - INFO - Saved requests page source to C:\safetensor\web_scrapping\web_scraper\debug\page_source_requests.html
+2025-09-30 17:46:15,966 - __main__ - INFO - Saved page source to C:\safetensor\web_scrapping\web_scraper\debug\page_source.html
+2025-09-30 17:46:15,994 - __main__ - WARNING - No verses found, trying aggressive extraction
+2025-09-30 17:46:15,997 - __main__ - INFO - Extracted 0 verses, 0 paragraphs, and 0 sections
+2025-09-30 17:46:16,010 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_174615_20250930_174615.csv
+2025-09-30 17:46:16,010 - __main__ - INFO - Web scraping completed
+2025-10-01 02:20:15,810 - __main__ - ERROR - Failed to initialize Playwright: BrowserType.launch: Executable doesn't exist at C:\Users\Ankit Kushwaha\AppData\Local\ms-playwright\chromium-1187\chrome-win\chrome.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-10-01 02:20:15,810 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-10-01 02:20:15,810 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-10-01 02:20:15,810 - __main__ - INFO - Fetching with requests: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3) with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-10-01 02:20:16,854 - __main__ - INFO - Saved requests page source to C:\safetensor\web_scrapping\web_scraper\debug\page_source_requests.html
+2025-10-01 02:20:16,886 - __main__ - INFO - Saved page source to C:\safetensor\web_scrapping\web_scraper\debug\page_source.html
+2025-10-01 02:20:16,921 - __main__ - WARNING - No verses found, trying aggressive extraction
+2025-10-01 02:20:16,925 - __main__ - INFO - Extracted 0 verses, 0 paragraphs, and 0 sections
+2025-10-01 02:20:16,956 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20251001_022016_20251001_022016.csv
+2025-10-01 02:20:16,961 - __main__ - INFO - Web scraping completed
+2025-10-01 02:21:06,355 - __main__ - ERROR - Failed to initialize Playwright: BrowserType.launch: Executable doesn't exist at C:\Users\Ankit Kushwaha\AppData\Local\ms-playwright\chromium-1187\chrome-win\chrome.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-10-01 02:21:06,355 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-10-01 02:21:06,356 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-10-01 02:21:06,356 - __main__ - INFO - Fetching with requests: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3) with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-10-01 02:21:07,476 - __main__ - INFO - Saved requests page source to C:\safetensor\web_scrapping\web_scraper\debug\page_source_requests.html
+2025-10-01 02:21:07,507 - __main__ - INFO - Saved page source to C:\safetensor\web_scrapping\web_scraper\debug\page_source.html
+2025-10-01 02:21:07,548 - __main__ - WARNING - No verses found, trying aggressive extraction
+2025-10-01 02:21:07,551 - __main__ - INFO - Extracted 0 verses, 0 paragraphs, and 0 sections
+2025-10-01 02:21:07,564 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20251001_022107_20251001_022107.csv
+2025-10-01 02:21:07,570 - __main__ - INFO - Web scraping completed
+2025-10-01 02:22:48,971 - __main__ - ERROR - Failed to initialize Playwright: BrowserType.launch: Executable doesn't exist at C:\Users\Ankit Kushwaha\AppData\Local\ms-playwright\chromium-1187\chrome-win\chrome.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-10-01 02:22:48,972 - __main__ - INFO - Starting web scraping for URL: https://omshivmaa.blogspot.com/
+2025-10-01 02:22:48,972 - __main__ - INFO - Starting web scraping for URL: https://omshivmaa.blogspot.com/
+2025-10-01 02:22:48,972 - __main__ - INFO - Fetching with requests: https://omshivmaa.blogspot.com/ (Attempt 1/3) with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-10-01 02:22:51,632 - __main__ - INFO - Saved requests page source to C:\safetensor\web_scrapping\web_scraper\debug\page_source_requests.html
+2025-10-01 02:22:51,707 - __main__ - INFO - Saved page source to C:\safetensor\web_scrapping\web_scraper\debug\page_source.html
+2025-10-01 02:22:51,808 - __main__ - INFO - Found content with selector: div.entry-content
+2025-10-01 02:22:51,819 - __main__ - INFO - Extracted 1 verses, 0 paragraphs, and 0 sections
+2025-10-01 02:22:51,835 - __main__ - INFO - Data saved to ../data/scrape_results_omshivmaa_blogspot_com_20251001_022251_20251001_022251.csv
+2025-10-01 02:22:51,838 - __main__ - INFO - Web scraping completed
