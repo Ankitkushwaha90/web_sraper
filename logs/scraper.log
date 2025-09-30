@@ -1,0 +1,93 @@
+2025-09-30 16:55:54,278 - __main__ - INFO - Searching for: web scraping with Python
+2025-09-30 16:59:52,828 - __main__ - INFO - Starting web scraping...
+2025-09-30 16:59:52,829 - __main__ - INFO - Scraping books from http://books.toscrape.com
+2025-09-30 16:59:52,829 - __main__ - INFO - Fetching http://books.toscrape.com (Attempt 1/3)
+2025-09-30 16:59:55,004 - __main__ - INFO - Successfully fetched http://books.toscrape.com
+2025-09-30 16:59:55,005 - __main__ - INFO - Found 0 books on the main page
+2025-09-30 16:59:55,005 - __main__ - INFO - Web scraping completed
+2025-09-30 17:01:50,184 - __main__ - INFO - Starting web scraping...
+2025-09-30 17:01:50,184 - __main__ - INFO - Scraping books from http://books.toscrape.com
+2025-09-30 17:01:50,213 - __main__ - INFO - Fetching http://books.toscrape.com (Attempt 1/3)
+2025-09-30 17:01:51,947 - __main__ - INFO - Successfully fetched http://books.toscrape.com
+2025-09-30 17:01:51,950 - __main__ - INFO - Found 0 books on the main page
+2025-09-30 17:01:51,951 - __main__ - INFO - Web scraping completed
+2025-09-30 17:02:48,033 - __main__ - INFO - Starting web scraping...
+2025-09-30 17:02:48,033 - __main__ - INFO - Scraping quotes from http://quotes.toscrape.com
+2025-09-30 17:02:48,033 - __main__ - INFO - Fetching http://quotes.toscrape.com (Attempt 1/3)
+2025-09-30 17:02:49,499 - __main__ - INFO - Successfully fetched http://quotes.toscrape.com
+2025-09-30 17:02:49,502 - __main__ - INFO - Found 0 quotes on the main page
+2025-09-30 17:02:49,502 - __main__ - INFO - Web scraping completed
+2025-09-30 17:04:42,624 - __main__ - INFO - Starting web scraping test...
+2025-09-30 17:04:42,624 - __main__ - INFO - Testing web scraping with https://httpbin.org/get
+2025-09-30 17:04:45,722 - __main__ - INFO - Successfully made request to test URL
+2025-09-30 17:04:45,732 - __main__ - INFO - Data saved to ..\data\test_results_20250930_170445_20250930_170445.csv
+2025-09-30 17:04:45,732 - __main__ - INFO - Web scraping test completed
+2025-09-30 17:05:30,959 - __main__ - INFO - Starting web scraping test...
+2025-09-30 17:05:30,959 - __main__ - INFO - Testing web scraping with https://httpbin.org/get
+2025-09-30 17:05:34,163 - __main__ - INFO - Successfully made request to test URL
+2025-09-30 17:05:34,170 - __main__ - INFO - Data saved to ..\data\test_results_20250930_170534_20250930_170534.csv
+2025-09-30 17:05:34,171 - __main__ - INFO - Web scraping test completed
+2025-09-30 17:11:09,547 - __main__ - INFO - Starting web scraping for URL: https://example.com
+2025-09-30 17:11:09,547 - __main__ - INFO - Scraping URL: https://example.com
+2025-09-30 17:11:09,547 - __main__ - INFO - Fetching https://example.com (Attempt 1/3)
+2025-09-30 17:11:11,062 - __main__ - INFO - Successfully fetched https://example.com
+2025-09-30 17:11:11,072 - __main__ - INFO - Data saved to ..\data\scrape_results_example_com_20250930_171111_20250930_171111.csv
+2025-09-30 17:11:11,072 - __main__ - INFO - Web scraping completed
+2025-09-30 17:13:11,722 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:11,722 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:11,724 - __main__ - INFO - Fetching https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3)
+2025-09-30 17:13:12,542 - __main__ - INFO - Successfully fetched https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:12,621 - __main__ - INFO - Data saved to ..\data\scrape_results_isha_sadhguru_org_20250930_171312_20250930_171312.csv
+2025-09-30 17:13:48,147 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:48,147 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:48,150 - __main__ - INFO - Fetching https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3)
+2025-09-30 17:13:49,081 - __main__ - INFO - Successfully fetched https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:13:49,157 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_171349_20250930_171349.csv
+2025-09-30 17:13:49,157 - __main__ - INFO - Web scraping completed
+2025-09-30 17:14:24,095 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:24,095 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:24,095 - __main__ - INFO - Fetching https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3)
+2025-09-30 17:14:25,018 - __main__ - INFO - Successfully fetched https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:25,113 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_171425_20250930_171425.csv
+2025-09-30 17:14:25,114 - __main__ - INFO - Web scraping completed
+2025-09-30 17:14:56,944 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:56,944 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:56,945 - __main__ - INFO - Fetching https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/ (Attempt 1/3)
+2025-09-30 17:14:57,749 - __main__ - INFO - Successfully fetched https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:14:57,863 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_171457_20250930_171457.csv
+2025-09-30 17:14:57,863 - __main__ - INFO - Web scraping completed
+2025-09-30 17:16:19,288 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:16:19,288 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:16:20,270 - __main__ - INFO - Extracted 0 verses and 0 paragraphs
+2025-09-30 17:16:20,282 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_171620_20250930_171620.csv
+2025-09-30 17:16:20,283 - __main__ - INFO - Web scraping completed
+2025-09-30 17:17:32,300 - __main__ - INFO - Starting web scraping for URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:17:32,300 - __main__ - INFO - Scraping URL: https://isha.sadhguru.org/mahashivratri/hi/shiva/shiv-tandav-stotram-lyrics-in-hindi/
+2025-09-30 17:17:32,301 - __main__ - INFO - Attempt 1 with SSL
+2025-09-30 17:17:33,302 - __main__ - INFO - Extracted 0 verses and 0 paragraphs
+2025-09-30 17:17:33,314 - __main__ - INFO - Data saved to ../data/scrape_results_isha_sadhguru_org_20250930_171733_20250930_171733.csv
+2025-09-30 17:17:33,315 - __main__ - INFO - Web scraping completed
+2025-09-30 17:19:49,125 - __main__ - INFO - Starting web scraping for URL: https://www.geeksforgeeks.org/data-science/data-science-for-beginners/
+2025-09-30 17:19:49,126 - __main__ - INFO - Scraping URL: https://www.geeksforgeeks.org/data-science/data-science-for-beginners/
+2025-09-30 17:19:49,126 - __main__ - INFO - Attempt 1 with SSL
+2025-09-30 17:19:50,432 - __main__ - INFO - Extracted 19 verses and 9 paragraphs
+2025-09-30 17:19:50,482 - __main__ - INFO - Data saved to ../data/scrape_results_www_geeksforgeeks_org_20250930_171950_20250930_171950.csv
+2025-09-30 17:19:50,487 - __main__ - INFO - Web scraping completed
+2025-09-30 17:24:25,686 - __main__ - INFO - Starting web scraping for URL: https://www.geeksforgeeks.org/machine-learning/underfitting-and-overfitting-in-machine-learning/
+2025-09-30 17:24:25,686 - __main__ - INFO - Scraping URL: https://www.geeksforgeeks.org/machine-learning/underfitting-and-overfitting-in-machine-learning/
+2025-09-30 17:24:25,686 - __main__ - INFO - Fetching https://www.geeksforgeeks.org/machine-learning/underfitting-and-overfitting-in-machine-learning/ with JavaScript rendering
+2025-09-30 17:24:26,222 - pyppeteer.chromium_downloader - INFO - Starting Chromium download.
+2025-09-30 17:24:27,307 - __main__ - WARNING - JavaScript rendering failed: Chromium downloadable not found at https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1181205/chrome-win.zip: Received <?xml version='1.0' encoding='UTF-8'?><Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Details>No such object: chromium-browser-snapshots/Win_x64/1181205/chrome-win.zip</Details></Error>.
+
+2025-09-30 17:24:27,370 - __main__ - INFO - Extracted 54 verses and 14 paragraphs
+2025-09-30 17:24:27,416 - __main__ - INFO - Data saved to ../data/scrape_results_www_geeksforgeeks_org_20250930_172427_20250930_172427.csv
+2025-09-30 17:24:27,420 - __main__ - INFO - Web scraping completed
+2025-09-30 17:36:14,065 - __main__ - INFO - Starting web scraping for URL: https://www.drikpanchang.com/hindu-goddesses/parvati/mahavidya/dasha-mahavidya.html
+2025-09-30 17:36:14,065 - __main__ - INFO - Scraping URL: https://www.drikpanchang.com/hindu-goddesses/parvati/mahavidya/dasha-mahavidya.html
+2025-09-30 17:36:14,067 - __main__ - INFO - Fetching https://www.drikpanchang.com/hindu-goddesses/parvati/mahavidya/dasha-mahavidya.html with JavaScript rendering
+2025-09-30 17:36:14,764 - pyppeteer.chromium_downloader - INFO - Starting Chromium download.
+2025-09-30 17:36:17,153 - __main__ - WARNING - JavaScript rendering failed: Chromium downloadable not found at https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1181205/chrome-win.zip: Received <?xml version='1.0' encoding='UTF-8'?><Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Details>No such object: chromium-browser-snapshots/Win_x64/1181205/chrome-win.zip</Details></Error>.
+
+2025-09-30 17:36:17,310 - __main__ - INFO - Extracted 75 verses and 7 paragraphs
+2025-09-30 17:36:17,332 - __main__ - INFO - Data saved to ../data/scrape_results_www_drikpanchang_com_20250930_173617_20250930_173617.csv
+2025-09-30 17:36:17,337 - __main__ - INFO - Web scraping completed
